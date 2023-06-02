@@ -28,6 +28,10 @@ body {
   color: #000101;
   transition: 0.7s ease-in-out;
 }
+
+
+
+
 h1 {
   font-size: calc(3rem + 3vw);
   font-family: "font-bold", serif;
@@ -131,12 +135,12 @@ h3:hover {
   --_p: 100%;
 }
 
-h3 {
+/* h3 {
   font-family: "font-bold", serif;
   margin-top: 20px;
   font-size: 4rem;
   cursor: pointer;
-}
+} */
 header h2 {
   font-size: calc(1rem + 5vw);
   margin: 18px 0;
