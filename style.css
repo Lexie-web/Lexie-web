@@ -223,9 +223,9 @@ footer a {
   background: url(./asset/thank.jpg) center/cover;
 }
 .mer {
+  max-width: 100%:
+  height: 880px;
   display: block;
-  height: 100%;
-  width:100%;
 }
 .liste {
   font-family: "font-bold", serif;
