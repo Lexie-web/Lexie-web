@@ -223,8 +223,8 @@ footer a {
   background: url(./asset/thank.jpg) center/cover;
 }
 .mer {
-  max-width: 100%:
-  height: 880px;
+  min-width: 100%:
+  min-height: 100px;
   display: block;
 }
 .liste {
