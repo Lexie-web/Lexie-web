@@ -82,10 +82,14 @@ a:hover::after {
     transform: scaleX(1);
   }
 }
+.mer {
+  width:100%
+  height: 50%;
+}
 .img {
   height: 395px;
   width: 100vw;
-  max-width: 695px;
+  max-width: 395px;
   margin: 0 auto;
   filter: grayscale(100%);
   transition: 1.6em;
@@ -141,11 +145,6 @@ header h2 {
   margin: 18px 0;
   margin-top: 300px;
   text-shadow: 0px 0px 2px gray;
-}
-.mer {
-  width:100%
-  height: 100%;
-  font-size: calc(3rem + 6vw);
 }
 .about {
   margin: 0px 0 250px;
