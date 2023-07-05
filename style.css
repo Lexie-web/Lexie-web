@@ -87,8 +87,8 @@ a:hover::after {
   height: 590px;
 }
 .img {
-  height: 395px;
-  width: 100vw;
+  height: 355px;
+  width: 26vw;
   margin: 0 auto;
   filter: grayscale(100%);
   transition: 1.6em;
